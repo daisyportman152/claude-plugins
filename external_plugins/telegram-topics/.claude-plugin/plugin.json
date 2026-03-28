@@ -1,0 +1,12 @@
+{
+  "name": "telegram-topics",
+  "description": "Telegram channel for Claude Code with forum topic routing support. Fork of official telegram plugin with message_thread_id handling.",
+  "version": "0.0.1",
+  "keywords": [
+    "telegram",
+    "messaging",
+    "channel",
+    "mcp",
+    "forum-topics"
+  ]
+}
